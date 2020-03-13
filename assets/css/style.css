@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/SpideyBackground.jpg");
+    
+}
+
+.container {
+    color: white;
+}
+
+#word {
+    font-size: 60px;
+}
