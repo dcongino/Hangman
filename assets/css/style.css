@@ -10,3 +10,18 @@ body {
 #word {
     font-size: 60px;
 }
+
+#image {
+    height: 75%;
+    width: 538px;
+}
+
+#wins {
+    font-size: xx-large;
+    color: yellow;
+}
+
+#losses {
+    font-size: xx-large;
+    color: yellow;
+}
